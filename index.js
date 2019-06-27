@@ -1,5 +1,4 @@
 // Code your solution in this file!
-returnFirstTwoDrivers() —
 const returnFirstTwoDrivers = function(arr){
   return [arr[0], arr[1]];
 };
